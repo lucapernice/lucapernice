@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👨‍💻 About Me
+I am currently pursuing a Master's degree in **Data Science & Artificial Intelligence** at the University of Trieste, where I am working on my thesis that explores the use of **Large Language Models (LLMs)** combined with **genetic algorithms** to optimize code.  
 
-<!--
-**lucapernice/lucapernice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alongside my studies, I work in the industry where I design and implement **backend applications** for enterprise use, leveraging **Azure cloud services** and integrating **LLMs** to enhance productivity.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✍️ Blog Articles
+Some blog articles I wrote about my projects and studies
+- [Integration of Genetic Algorithms and Language Models: Part 1](https://lucapernice.github.io/IdEE//GA_prompt/)  
+- [Integration of Genetic Algorithms and Language Models: Part 2](https://lucapernice.github.io/IdEE///GA_prompt2/)  
+- [Simulation based synthetic data generator with LLMs](https://lucapernice.github.io/IdEE///simulation-based-data-generator/)  
+
+---
+
+## 📂 Selected Projects
+Some projects of mine that I like and I can share.
+
+- [CodeEvolver](https://github.com/lucapernice/CodeEvolver): Use an AI (Large Language Model - LLM) to mimic genetic evolution, refining C code for data compression.  
+- [GA_prompt](https://github.com/lucapernice/GA_prompt): Integration of Genetic Algorithms and Language Models.   
+- [hackaton_maggio](https://github.com/lucapernice/hackaton_maggio/tree/main): Repo of a 12h hackaton. I optimized the battery consumpion using a smart scheduling. I used [Simulated Annealing](https://www.geeksforgeeks.org/artificial-intelligence/what-is-simulated-annealing/) and a proper objective function in order to schedule the different tasks reducing bettery consumption.
+
+---
+
+## 📫 Get in Touch
+- LinkedIn: [[link](https://www.linkedin.com/in/luca-pernice-815823268/)]  
+- Email: [luca.pernice@outlook.it]  
+
+---
