@@ -6,7 +6,7 @@ In parallel with my studies, I work in industry, designing and implementing **ba
 ---
 
 ## ✍️ Blog Articles I Wrote
-Some articles I’ve published based on my projects and studies:  
+Some blog articles I wrote about my projects and studies.:  
 - [Integration of Genetic Algorithms and Language Models: Part 1](https://lucapernice.github.io/IdEE//GA_prompt/)  
 - [Integration of Genetic Algorithms and Language Models: Part 2](https://lucapernice.github.io/IdEE///GA_prompt2/)  
 - [Simulation-Based Synthetic Data Generator with LLMs](https://lucapernice.github.io/IdEE///simulation-based-data-generator/)  
