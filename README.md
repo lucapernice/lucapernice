@@ -10,7 +10,7 @@ Alongside my studies, I work in the industry where I design and implement **back
 Some blog articles I wrote about my projects and studies
 - [Integration of Genetic Algorithms and Language Models: Part 1](https://lucapernice.github.io/IdEE//GA_prompt/)  
 - [Integration of Genetic Algorithms and Language Models: Part 2](https://lucapernice.github.io/IdEE///GA_prompt2/)  
-- [Simulation based synthetic data generator with LLMs](https://lucapernice.github.io/IdEE///simulation-based-data-generator/)  
+- [Simulation based synthetic data generator with LLMs](https://lucapernice.github.io/IdEE///simulation-based-data-generator/)
 
 ---
 
@@ -20,6 +20,7 @@ Some projects of mine that I like and I can share.
 - [CodeEvolver](https://github.com/lucapernice/CodeEvolver): Use an AI (Large Language Model - LLM) to mimic genetic evolution, refining C code for data compression.  
 - [GA_prompt](https://github.com/lucapernice/GA_prompt): Integration of Genetic Algorithms and Language Models.   
 - [hackaton_maggio](https://github.com/lucapernice/hackaton_maggio/tree/main): Repo of a 12h hackaton. I optimized the battery consumpion using a smart scheduling. I used [Simulated Annealing](https://www.geeksforgeeks.org/artificial-intelligence/what-is-simulated-annealing/) and a proper objective function in order to schedule the different tasks reducing bettery consumption.
+- IN PROGRESS: Genetic Improvement of LLM-Generated Programs: A Bytecode-Level Approach
 
 ---
 
