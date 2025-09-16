@@ -6,11 +6,18 @@ Alongside my studies, I work in the industry where I design and implement **back
 
 ---
 
-## ✍️ Blog Articles
-Some blog articles I wrote about my projects and studies
+## ✍️ Blog Articles I wrote
+Some blog articles I wrote about my projects and studies.
 - [Integration of Genetic Algorithms and Language Models: Part 1](https://lucapernice.github.io/IdEE//GA_prompt/)  
 - [Integration of Genetic Algorithms and Language Models: Part 2](https://lucapernice.github.io/IdEE///GA_prompt2/)  
 - [Simulation based synthetic data generator with LLMs](https://lucapernice.github.io/IdEE///simulation-based-data-generator/)
+
+ ##  Blog Articles I suggest
+ Few articles that I think they're worth reading.
+ 
+ - [Research Debt](https://distill.pub/2017/research-debt/)
+ - [Do Large Language Models learn world models or just surface statistics?](https://thegradient.pub/othello/)
+ - [MCP: Flash in the Pan or Future Standard?](https://blog.langchain.com/mcp-fad-or-fixture/)
 
 ---
 
